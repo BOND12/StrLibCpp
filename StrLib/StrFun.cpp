@@ -3,7 +3,7 @@
  *
  *  Created on: 3 янв. 2019 г.
  *      Author: BOND
- *      License: GPLv3
+ *      License: M.I.T.
  *      v0.2
  */
 
