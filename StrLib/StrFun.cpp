@@ -14,9 +14,12 @@
  * Исключительно в целях отладки
  *
  */
+#define debug 0
+
+#if(debug)
 #include <iostream>
 using namespace std;
-
+#endif
 
 
 int length(char *s){//Символ завершения строки имеет код 0, поэтому, его и ищем
